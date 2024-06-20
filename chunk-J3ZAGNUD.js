@@ -1,0 +1,1 @@
+import{Ga as o,p as r,v as t,va as e}from"./chunk-IY7OHWIH.js";var p=(f,l)=>{let a=r(o),i=r(t);return e(i)?localStorage.getItem("profile-mode")!=="page"?!0:(a.navigate(["/profile/facilityData"]),!1):!1};export{p as a};
